@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         //taikuc
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        //taikuc
+    }
 }
 
